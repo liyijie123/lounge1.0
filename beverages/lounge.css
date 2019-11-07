@@ -38,7 +38,21 @@ h2{
     background-image: url(images/cocktail.gif);
     background-repeat: repeat-x;
 }
-
+.cd {
+  font-style: italic;
+}
+.artist {
+  font-weight: bold;
+}
+a.link {
+  color: green;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: yellow;
+}
 
 
 
